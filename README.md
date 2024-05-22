@@ -1,2 +1,2 @@
 # actions-repo
-A sample repo for Github actions example
+A sample repository for Github actions example.
